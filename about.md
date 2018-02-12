@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-When it comes to writing, when it comes to writing, when it comes to writing...., don't know.
-
-Please come here after some days.
+A software developer from 7 years (5 years of education learning and 2 years as a professional). Will write more keep checking.
 
 ## Education
 
